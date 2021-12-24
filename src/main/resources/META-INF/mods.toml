@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="MIT License"
+[[mods]]
+modId="colorblocks"
+version="1.0.0"
+displayName="Color Blocks"
+logoFile="colorblocks.png"
+credits="TurtyWurty, Jorrit Tyberghein for the tutorials"
+authors="BWBJustin"
+description="Sometimes, your builds need solid color blocks."
